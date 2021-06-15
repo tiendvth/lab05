@@ -1,0 +1,6 @@
+C:\Users\LE DIEP\RiderProjects\lab05\Namespace\bin\Debug\Namespace.exe
+C:\Users\LE DIEP\RiderProjects\lab05\Namespace\bin\Debug\Namespace.pdb
+C:\Users\LE DIEP\RiderProjects\lab05\Namespace\obj\Debug\Namespace.csprojAssemblyReference.cache
+C:\Users\LE DIEP\RiderProjects\lab05\Namespace\obj\Debug\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\LE DIEP\RiderProjects\lab05\Namespace\obj\Debug\Namespace.exe
+C:\Users\LE DIEP\RiderProjects\lab05\Namespace\obj\Debug\Namespace.pdb
